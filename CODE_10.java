@@ -28,7 +28,7 @@ public class Pattern {
         System.out.println("*");
 
         System.out.println("*".repeat(2 * n + 2));
-
+ 
         System.out.print("*".repeat(n - 1));
         System.out.print(" ".repeat(n + 1));
         System.out.println("*");
