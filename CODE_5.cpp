@@ -1,4 +1,4 @@
-//THIS PROGRAM IS JUST TO CHECK THE GIVEN NUMBER IS POWER OF 3 OR NOT
+//THIS PROGRAM IS JUST TO CHECK THE GIVEN NUMBER IS POWER OF 3 OR NOT 
 #include<iostream>
 using namespace std;
 bool ispowerof3(int n)
